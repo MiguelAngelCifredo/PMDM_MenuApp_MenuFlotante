@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/opcColorFondo"
+        android:title="@string/colotFondo" >
+        <menu>
+            <item android:id="@+id/opcRojo"
+                android:title="@string/rojo" />
+            <item android:id="@+id/opcVerde"
+                android:title="@string/verde" />
+            <item android:id="@+id/opcAzul"
+                android:title="@string/azul" />
+        </menu>
+    </item>
+    <item android:id="@+id/opcSalir"
+        android:title="@string/salir"/>
+</menu>
